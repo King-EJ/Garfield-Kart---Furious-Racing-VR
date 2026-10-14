@@ -1,5 +1,5 @@
 # Garfield-Kart---Furious-Racing-VR
-VR Mod for Garfield Kart - Furious Racing
+VR Mod for Garfield Kart - Furious Racing (single player haven't tested online)
 
 <img width="448" height="442" alt="Adobe" src="https://github.com/user-attachments/assets/e9a790b9-a52c-473c-81b5-149531cf32e4" />
 
